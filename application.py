@@ -67,7 +67,7 @@ welcome = """
 
     text-align: right;
     padding-top: 11em;
-    background-color: #1BA86D;
+    background-color: black;
   }
   .textColumn p {
     width: 75%;
