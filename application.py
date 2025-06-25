@@ -80,7 +80,7 @@ welcome = """
     bottom: 0px;
     left: 50%;
 
-    background-color: yellow;
+    background-color: #E0E0E0;
   }
 
   h1 {
